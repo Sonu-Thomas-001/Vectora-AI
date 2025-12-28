@@ -1,0 +1,5 @@
+{
+  "name": "Vectora AI",
+  "description": "A premium design tool that generates high-quality PNG assets and SVG vectors using Gemini 2.5 Flash and Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
